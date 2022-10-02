@@ -20,6 +20,9 @@ alias :[]
 	4. FileWriter
 
 2. 處理流 : 想成在水管上的水質過濾器，處理不想要通過水管的東西。
-	ex. BufferedStraem 
+	![[Java_處理流.png]]
+
+
+參考 : https://ethan-imagination.blogspot.com/2018/12/javase-gettingstarted-019.html
 
 
