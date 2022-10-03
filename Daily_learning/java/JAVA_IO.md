@@ -39,7 +39,7 @@ BufferedReader br =  new BufferedReader(FileInputStream("test.txt"));
 
 
 mark() 與 reset()
-待寫入
+`待寫入`
 
 ---
 ## 轉換流
@@ -52,4 +52,19 @@ ex. InputStreamReader即是將InputStream轉為Reader(`bytestream -> characterst
 InputStream isr = new InputStreamReader(System.in, "big5");
 ```
 
+
+---
+## 資料流
+
+有針對JAVA基礎型別(ex : double , int)的轉換，與電腦本身無關。但須注意`先寫先讀`問題
+，因為DataStream是依照順序讀取。(......`待寫入`)
+
+
+---
+## 打印流
+
+主要都屬於輸出流，有PrintWriter , PrintStream。
++ 兩者皆`提供` overload 的 print() method
++ 兩者都沒有throw exception，使用者需要透過錯誤狀態來了解錯誤的相關訊息
++ 兩者都自帶flush ，會自動清除緩衝區。
 
