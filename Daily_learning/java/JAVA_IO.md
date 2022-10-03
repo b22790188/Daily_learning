@@ -66,5 +66,16 @@ InputStream isr = new InputStreamReader(System.in, "big5");
 主要都屬於輸出流，有PrintWriter , PrintStream。
 + 兩者皆`提供` overload 的 print() method
 + 兩者都沒有throw exception，使用者需要透過錯誤狀態來了解錯誤的相關訊息
-+ 兩者都自帶flush ，會自動清除緩衝區。
++ 兩者都`自帶flush` ，會自動清除緩衝區。
 
+---
+## 補充 
+
+常用函數 : 
++ *getByte( ) : 若`無` 參數傳入時，預設以作業系統的編碼將字串以該編碼生成Byte陣列 ，若有指定編碼則以該編碼生成
+ex :
+```java
+String linebuf = "test";
+Byte[] bytearray = linebuf.getByte("big5");
+//以big5編碼方式生成byte陣列
+```
