@@ -20,7 +20,7 @@ alias :[]
 	4. FileWriter
 
 2. 處理流 : 想成在水管上的水質過濾器，處理不想要通過水管的東西。
-	![[Java_處理流.png]]
+	![[image/Java_處理流.png]]
 
 
 參考 : https://ethan-imagination.blogspot.com/2018/12/javase-gettingstarted-019.html
@@ -45,5 +45,11 @@ mark() 與 reset()
 ## 轉換流
 
 轉換流，如其名 ，可以將bytestream轉換為characterstrea。
-ex. InputStreamReader即是將
+ex. InputStreamReader即是將InputStream轉為Reader(`bytestream -> characterstream`)
+
+在使用轉換流建構子時也可以指定編碼型式
+```java
+InputStream isr = new InputStreamReader(System.in, "big5");
+```
+
 
