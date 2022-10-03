@@ -25,6 +25,25 @@ alias :[]
 
 參考 : https://ethan-imagination.blogspot.com/2018/12/javase-gettingstarted-019.html
 
+---
+
+## 緩衝流 
+
+在讀取資料時，每次都以一個byte的方式讀取或寫入，因為是與disk進行互動，來回其實是會耗費相當多時間的，但若是有一個緩衝區將資料預先全部讀進來或寫入，在輸出時一次傳遞更多的資料，也可以減少與disk互動，進而減少時間。
+
+### 用法
+主要是套接在`對應的節點流上`，如
+```java
+BufferedReader br =  new BufferedReader(FileInputStream("test.txt"));
+```
 
 
+mark() 與 reset()
+待寫入
+
+---
+## 轉換流
+
+轉換流，如其名 ，可以將bytestream轉換為characterstrea。
+ex. InputStreamReader即是將
 
