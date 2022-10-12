@@ -29,6 +29,11 @@ use -- to comment remainder of query
 	
 	這裡比較特別的是選擇`NULL`作為測試值。原因為`NULL`是可以被轉換成常見的datatype的，因此使用NULL作為payload是可以增加測試成功的機率。
 
+
 ### 資料型別的測試(使用Union+Select+Null)
-1. 若要查找字串類型的資料，則將該行的`NULL`轉換成
+1. 若要查找字串類型的資料，則將該行的`NULL`轉換成字串形式如`UNION+SELECT+NULL,'a',NULL--`等，若是資料型別失敗的話則會報錯。
+
+
+### Additional
+若是在單行中讀取多個數據時，可以使用如 `~` 的符號來區別，增加辨識度。
 
