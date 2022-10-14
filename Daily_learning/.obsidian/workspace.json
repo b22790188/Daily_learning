@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "48a06668e30d9d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "33035b4629118335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80b6ac6600726606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PortSwiggerNote/Day2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242ed5ac5412f1be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac1bbe2974136a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b556176dff0d2a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2366873f2a623b6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a20dd6e4bab7a24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "752a1c2b15ef9ea5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3b37d6b11b409d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef3423fa44d6918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e9dfaea991eb1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PortSwiggerNote/Day2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adafc62c5d74048f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PortSwiggerNote/Day2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c389e759fcb24668",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36eac20e5172798d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PortSwiggerNote/Day2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "242ed5ac5412f1be",
+  "lastOpenFiles": [
+    "PortSwiggerNote/Day1.md",
+    "java/JAVA_IO.md"
+  ]
+}
