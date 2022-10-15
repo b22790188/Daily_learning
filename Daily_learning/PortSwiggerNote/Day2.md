@@ -12,7 +12,8 @@ SELECT table_name , NULL FROM information_schema.tables(在已知兩行的情況
 來取得table_name名字
 
 當找到之後，可以使用
-SELECT column_name , NULL FROM information.columns WHERE table_name='目標table'
+`SELECT column_name , NULL FROM information.columns WHERE table_name=` '目標table'
++ `僅適用於非Oracle版本的database`
 
 最後確定欄位即表格之後，使用
 SELECT 目標欄位1 , 目標欄位2 , FROM 目標表格，即可查看到想看的資料。

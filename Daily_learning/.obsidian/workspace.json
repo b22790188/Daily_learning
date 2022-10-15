@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "242ed5ac5412f1be",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,9 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "242ed5ac5412f1be",
+  "active": "80b6ac6600726606",
   "lastOpenFiles": [
     "PortSwiggerNote/Day1.md",
+    "PortSwiggerNote/Day2.md",
     "java/JAVA_IO.md"
   ]
 }
