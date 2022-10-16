@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33035b4629118335",
+        "id": "fbf769e6bc25c33c",
         "type": "tabs",
         "children": [
           {
-            "id": "80b6ac6600726606",
+            "id": "4d262e98c95aa782",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PortSwiggerNote/Day2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fddf2d271befe52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PortSwiggerNote/Day3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PortSwiggerNote/Day2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PortSwiggerNote/Day2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PortSwiggerNote/Day2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -151,7 +131,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "80b6ac6600726606",
+  "active": "4d262e98c95aa782",
   "lastOpenFiles": [
     "PortSwiggerNote/Day3.md",
     "PortSwiggerNote/Day2.md",
