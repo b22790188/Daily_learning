@@ -11,8 +11,12 @@
             "id": "4d262e98c95aa782",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PortSwiggerNote/Day4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PortSwiggerNote/Day4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PortSwiggerNote/Day4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PortSwiggerNote/Day4.md"
+              }
             }
           }
         ]
@@ -133,9 +141,10 @@
   },
   "active": "4d262e98c95aa782",
   "lastOpenFiles": [
+    "PortSwiggerNote/Day4.md",
     "PortSwiggerNote/Day3.md",
-    "PortSwiggerNote/Day2.md",
     "PortSwiggerNote/Day1.md",
+    "PortSwiggerNote/Day2.md",
     "java/JAVA_IO.md"
   ]
 }
