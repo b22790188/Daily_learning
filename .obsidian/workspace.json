@@ -23,8 +23,12 @@
             "id": "c87c746f91b1e1f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily_learning/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily_learning/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily_learning/Untitled.md"
+              }
             }
           }
         ]
@@ -146,6 +154,7 @@
   },
   "active": "834692bb50daf25c",
   "lastOpenFiles": [
+    "Daily_learning/Obsidian github設定.md",
     "Daily_learning/PortSwiggerNote/Day1.md"
   ]
 }
