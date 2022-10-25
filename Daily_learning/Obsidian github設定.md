@@ -1,1 +1,1 @@
-因為從windowsl換到
+因為從windowsl換到kali上
