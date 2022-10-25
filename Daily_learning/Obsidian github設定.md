@@ -1,1 +1,1 @@
-因為從windowsl換到kali上 , 
+因為從windowsl換到kali上 , 嘗試使用kali
