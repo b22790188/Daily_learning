@@ -5,11 +5,6 @@ alias :[]
 
 ## Brute-force
 
-
-
-
-
-
 ---
 ## About Burp Intruder
 ### Attack type (這裡都是使用Simple list的狀況)
@@ -25,4 +20,3 @@ alias :[]
 2. Runtime file : 跟使用Simplist 效果相同，但若是因為檔案payload的很大，需要顯示的時候會使得simple list跑很久，若直接匯入檔案則可以解決這個問題。
 
 3. Custom iterator : 共有1~8個position，每一個postion都會有各自的payload，最終，出現的組合會是position1+position2+position3，`也就是pos後方的payload不會跑到前面 ex:pos2的payload不會出現在pos1中`。
-
