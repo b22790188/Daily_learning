@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7c9c881587c00177",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c56d734c0bc604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4947325274728f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/Daily_learning/PortSwiggerNote/Day2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40034afaee495dce",
+    "type": "split",
+    "children": [
+      {
+        "id": "39394252f28492be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63165abb9ac128ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b97710e40a4eea3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33b65e99e5a83ae6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea6a5c8df5260a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c99d7dea4178a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977ed8f1ab38ac41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily_learning/Daily_learning/PortSwiggerNote/Day2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17188c5d8fa9fd1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily_learning/Daily_learning/PortSwiggerNote/Day2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22ff4c6d4affcec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f0c9fe844c5f7dba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily_learning/Daily_learning/PortSwiggerNote/Day2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4947325274728f91",
+  "lastOpenFiles": []
+}
