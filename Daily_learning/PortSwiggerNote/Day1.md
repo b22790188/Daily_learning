@@ -36,5 +36,3 @@ use -- to comment remainder of query
 
 ### Additional
 若是在單行中讀取多個數據時，可以使用如 `~` 的符號來區別，增加辨識度。
-
-測試
