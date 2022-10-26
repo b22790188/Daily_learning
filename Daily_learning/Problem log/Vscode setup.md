@@ -8,4 +8,4 @@ alias : []
 ```
 dpkg -i code_1.72.2-1665614327_amd63.deb
 ```
-2. 在已經有一個cpp檔的情況下進入到vscode內之後先以按下右上角的執行(vscode的延伸套件code runner)
+2. 在已經有一個cpp檔的情況下進入到vscode內之後先以按下右上角的執行(vscode的延伸套件code runner), 選擇建置
