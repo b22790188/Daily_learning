@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/Obsidian github設定.md",
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/Obsidian github設定.md",
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/Obsidian github設定.md",
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/Obsidian github設定.md"
+                "file": "Daily_learning/Problem log/Obsidian github設定.md"
               }
             }
           }
@@ -154,8 +154,9 @@
   },
   "active": "c87c746f91b1e1f0",
   "lastOpenFiles": [
+    "Daily_learning/Problem log/Vscode setup.md",
+    "Daily_learning/Problem log/Obsidian github設定.md",
     "Daily_learning/PortSwiggerNote/Day4.md",
-    "Daily_learning/Obsidian github設定.md",
     "Daily_learning/PortSwiggerNote/Day1.md"
   ]
 }
