@@ -9,4 +9,9 @@ alias : []
 dpkg -i code_1.72.2-1665614327_amd63.deb
 ```
 2. 在已經有一個cpp檔的情況下進入到vscode內之後先按下右上角的執行,行vscode會列出系統上偵測到的編譯器, 選擇完後, vscode會自動產生task.json,也就是將剛剛所選的編譯器設定為預設編譯器,之後就不用再選擇了.
-3. debug : 
+3. debug : 在右上角按鈕旁選擇齒輪( 新增偵錯設定,英文為Add debug configuration), 之後在產生launch.json檔. 設定至此完成
+
+目前因為對於這些json
+
+
+參考 : https://code.visualstudio.com/docs/cpp/config-linux
