@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day1.md",
+                "file": "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day1.md",
+                "file": "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5.md",
+                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5.md",
+                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5.md",
+                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5.md"
+                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md"
               }
             }
           }
@@ -173,9 +173,11 @@
   },
   "active": "d4dd6ff33e02c51b",
   "lastOpenFiles": [
-    "Daily_learning/PortSwiggerNote/Day4.md",
-    "Daily_learning/PortSwiggerNote/Day5.md",
-    "Daily_learning/PortSwiggerNote/Day1.md",
+    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
+    "Daily_learning/PortSwiggerNote/Day2_SQLi.md",
+    "Daily_learning/PortSwiggerNote/Day3_SQLi.md",
+    "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
+    "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
     "Daily_learning/Problem log/Vscode setup.md",
     "Daily_learning/Problem log/Obsidian github設定.md"
   ]
