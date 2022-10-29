@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ca749d66fea68d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/Problem log/kali  空間擴充.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "70c2d5d1c051a857",
             "type": "leaf",
             "state": {
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
+                "file": "Daily_learning/Problem log/kali  空間擴充.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
+                "file": "Daily_learning/Problem log/kali  空間擴充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md"
+                "file": "Daily_learning/Problem log/kali  空間擴充.md"
               }
             }
           }
@@ -171,14 +183,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4dd6ff33e02c51b",
+  "active": "ca749d66fea68d68",
   "lastOpenFiles": [
-    "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
+    "Daily_learning/Problem log/Obsidian github設定.md",
+    "Daily_learning/Problem log/Vscode setup.md",
+    "Daily_learning/Problem log/kali  空間擴充.md",
     "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
+    "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
     "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
     "Daily_learning/PortSwiggerNote/Day2_SQLi.md",
-    "Daily_learning/PortSwiggerNote/Day3_SQLi.md",
-    "Daily_learning/Problem log/Vscode setup.md",
-    "Daily_learning/Problem log/Obsidian github設定.md"
+    "Daily_learning/PortSwiggerNote/Day3_SQLi.md"
   ]
 }
