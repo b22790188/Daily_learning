@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/Problem log/kali  空間擴充.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/Problem log/kali  空間擴充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily_learning/Problem log/kali  空間擴充.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,11 +179,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca749d66fea68d68",
+  "active": "70c2d5d1c051a857",
   "lastOpenFiles": [
+    "Daily_learning/Problem log/kali  空間擴充.md",
     "Daily_learning/Problem log/Obsidian github設定.md",
     "Daily_learning/Problem log/Vscode setup.md",
-    "Daily_learning/Problem log/kali  空間擴充.md",
     "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
     "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
     "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
