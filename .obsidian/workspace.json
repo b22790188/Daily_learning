@@ -59,9 +59,11 @@
             "id": "70c2d5d1c051a857",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md"
+              }
             }
           }
         ]
