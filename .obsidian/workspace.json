@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "538eca28cd8326ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scavenger Hunt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/CTF初探.md",
+                "file": "Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/CTF初探.md",
+                "file": "Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/CTF初探.md"
+                "file": "Scavenger Hunt.md"
               }
             }
           }
@@ -136,10 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b3203494f084273",
+  "active": "538eca28cd8326ae",
   "lastOpenFiles": [
-    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
     "Daily_learning/CTF_Refleciton/CTF初探.md",
+    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
     "Daily_learning/Problem log/Untitled.md",
     "Daily_learning/Problem_log/Obsidian github設定.md",
     "Daily_learning/Problem_log/Vscode setup.md",
