@@ -11,8 +11,12 @@
             "id": "8b3203494f084273",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily_learning/Problem log/Obsidian github設定.md"
+              }
             }
           }
         ]
@@ -128,12 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "834692bb50daf25c",
+  "active": "8b3203494f084273",
   "lastOpenFiles": [
+    "Daily_learning/Problem log/Vscode setup.md",
     "Daily_learning/picoCTF/General Skill/picoCTF Wave a flag.md",
     "Daily_learning/Problem log/Obsidian github設定.md",
     "Daily_learning/Problem log/kali  空間擴充.md",
-    "Daily_learning/Problem log/Vscode setup.md",
     "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
     "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
     "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
