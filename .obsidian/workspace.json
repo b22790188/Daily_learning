@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/Untitled.md",
+                "file": "Daily_learning/CTF_Refleciton/CTF初探.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/Untitled.md",
+                "file": "Daily_learning/CTF_Refleciton/CTF初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/Untitled.md",
+                "file": "Daily_learning/CTF_Refleciton/CTF初探.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/CTF_Refleciton/Untitled.md"
+                "file": "Daily_learning/CTF_Refleciton/CTF初探.md"
               }
             }
           }
@@ -136,9 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "834692bb50daf25c",
+  "active": "8b3203494f084273",
   "lastOpenFiles": [
-    "Daily_learning/CTF_Refleciton/Untitled.md",
+    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
+    "Daily_learning/CTF_Refleciton/CTF初探.md",
     "Daily_learning/Problem log/Untitled.md",
     "Daily_learning/Problem_log/Obsidian github設定.md",
     "Daily_learning/Problem_log/Vscode setup.md",
@@ -146,7 +147,6 @@
     "Daily_learning/Problem_log/kali  空間擴充.md",
     "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
     "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md",
-    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
     "Daily_learning/PortSwiggerNote/Day2_SQLi.md"
   ]
 }
