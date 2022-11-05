@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/CTF_Time/CTF初探.md",
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/CTF_Time/Scavenger Hunt.md",
+                "file": "Daily_learning/CTF_writeup/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/CTF_Time/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/Some assembly required 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b64cd768221fe17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/CTF_writeup/More cookies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/CTF_Time/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/More cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/CTF_Time/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/More cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/CTF_Time/Some assembly required 1.md"
+                "file": "Daily_learning/CTF_writeup/More cookies.md"
               }
             }
           }
@@ -161,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f425fcfba8ece1cc",
+  "active": "8b64cd768221fe17",
   "lastOpenFiles": [
-    "Daily_learning/CTF_Time/Scavenger Hunt.md",
-    "Daily_learning/CTF_Time/CTF初探.md",
+    "Daily_learning/CTF_writeup/Some assembly required 1.md",
+    "Daily_learning/CTF_writeup/Scavenger Hunt.md",
+    "Daily_learning/CTF_writeup/CTF初探.md",
     "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
     "Daily_learning/Problem log/Untitled.md",
     "Daily_learning/Problem_log/Obsidian github設定.md",
     "Daily_learning/Problem_log/Vscode setup.md",
     "Daily_learning/picoCTF/General Skill/picoCTF Wave a flag.md",
     "Daily_learning/Problem_log/kali  空間擴充.md",
-    "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md",
-    "Daily_learning/PortSwiggerNote/Day4_Burp Intruder 功能.md"
+    "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md"
   ]
 }
