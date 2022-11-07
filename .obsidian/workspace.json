@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff85a737eed0b829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily_learning/PortSwiggerNote/Day6_Directory_Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/CTF_writeup/More cookies.md",
+                "file": "Daily_learning/PortSwiggerNote/Day6_Directory_Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/CTF_writeup/More cookies.md",
+                "file": "Daily_learning/PortSwiggerNote/Day6_Directory_Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/CTF_writeup/More cookies.md"
+                "file": "Daily_learning/PortSwiggerNote/Day6_Directory_Traversal.md"
               }
             }
           }
@@ -173,8 +185,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b64cd768221fe17",
+  "active": "ff85a737eed0b829",
   "lastOpenFiles": [
+    "Daily_learning/CTF_writeup/More cookies.md",
     "Daily_learning/CTF_writeup/Some assembly required 1.md",
     "Daily_learning/CTF_writeup/Scavenger Hunt.md",
     "Daily_learning/CTF_writeup/CTF初探.md",
@@ -183,7 +196,6 @@
     "Daily_learning/Problem_log/Obsidian github設定.md",
     "Daily_learning/Problem_log/Vscode setup.md",
     "Daily_learning/picoCTF/General Skill/picoCTF Wave a flag.md",
-    "Daily_learning/Problem_log/kali  空間擴充.md",
-    "Daily_learning/PortSwiggerNote/Day5_Authencation Vulnerability.md"
+    "Daily_learning/Problem_log/kali  空間擴充.md"
   ]
 }
