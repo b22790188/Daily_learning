@@ -66,17 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fdd756622c388a2c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily_learning/CTF_writeup/CTF初探.md"
+              }
             }
           }
         ]
