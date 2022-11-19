@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Linux Fundamental 1~3.md",
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Linux Fundamental 1~3.md",
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Linux Fundamental 1~3.md",
+                "file": "Daily_learning/CTF_writeup/CTF初探.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Linux Fundamental 1~3.md"
+                "file": "Daily_learning/CTF_writeup/CTF初探.md"
               }
             }
           }
@@ -197,12 +197,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f425fcfba8ece1cc",
+  "active": "834692bb50daf25c",
   "lastOpenFiles": [
+    "TryHackMe/Basic Pentest.md",
+    "TryHackMe/Linux Fundamental 1~3.md",
     "Daily_learning/CTF_writeup/Some assembly required 1.md",
     "Daily_learning/CTF_writeup/Scavenger Hunt.md",
-    "TryHackMe/Linux Fundamental 1~3.md",
-    "TryHackMe/Basic Pentest.md",
     "Arp spoofing.md",
     "Daily_learning/CTF_writeup/More cookies.md",
     "Daily_learning/CTF_writeup/CTF初探.md",

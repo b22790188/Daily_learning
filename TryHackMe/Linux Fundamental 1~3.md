@@ -4,4 +4,6 @@ alias : []
 ---
 ps
 systemctl
+&
 fg
+crontab
