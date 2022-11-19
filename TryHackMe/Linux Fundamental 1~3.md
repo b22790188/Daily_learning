@@ -5,7 +5,7 @@ alias : []
 
 ----
 
-ps  : report snap shot of current processes
+ps  : process status
 
 
 systemctl : 
