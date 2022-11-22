@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_learning/CTF_writeup/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/Some Assembly Required 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily_learning/CTF_writeup/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/Some Assembly Required 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily_learning/CTF_writeup/Some assembly required 1.md",
+                "file": "Daily_learning/CTF_writeup/Some Assembly Required 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily_learning/CTF_writeup/Some assembly required 1.md"
+                "file": "Daily_learning/CTF_writeup/Some Assembly Required 2.md"
               }
             }
           }
@@ -236,6 +236,7 @@
   },
   "active": "446be5d9ab75c519",
   "lastOpenFiles": [
+    "Daily_learning/CTF_writeup/Some assembly required 1.md",
     "Daily_learning/CTF_writeup/Some Assembly Required 2.md",
     "TryHackMe/Jr_Penetratoin_Tester/Content Discovery.md",
     "TryHackMe/Jr_Penetratoin_Tester/Walking An Application.md",
@@ -243,7 +244,6 @@
     "TryHackMe/Basic Pentest.md",
     "TryHackMe/Linux Fundamental 1~3.md",
     "Arp spoofing.md",
-    "Daily_learning/CTF_writeup/Some assembly required 1.md",
     "TryHackMe/Pre.md",
     "Daily_learning/image/Java_處理流.png"
   ]
