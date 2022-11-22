@@ -213,6 +213,7 @@
   "active": "ab71e97c8c9f7d43",
   "lastOpenFiles": [
     "TryHackMe/Jr_Penetratoin_Tester/Walking An Application.md",
+    "TryHackMe/Jr_Penetratoin_Tester/Content Discovery.md",
     "TryHackMe/Pre.md",
     "TryHackMe/Linux Fundamental 1~3.md",
     "TryHackMe/Basic Pentest.md",
@@ -220,7 +221,6 @@
     "Daily_learning/CTF_writeup/CTF初探.md",
     "Daily_learning/CTF_writeup/Some assembly required 1.md",
     "Daily_learning/CTF_writeup/Scavenger Hunt.md",
-    "Arp spoofing.md",
-    "Daily_learning/CTF_writeup/More cookies.md"
+    "Arp spoofing.md"
   ]
 }
