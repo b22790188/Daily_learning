@@ -10,6 +10,7 @@ alias : []
 
 在這個過程中也有利用到`curl`指令, 但我對於curl指令的用途目前還不太熟悉, 需要去熟練一下, 還有最後automated discovery的部份是利用了`ffuf, dirb, gobuster等工具`, 也是我自己沒有接觸過得部份, 也需要去實際操作一下才能對這些自動化工具更加了解.
 
+ffuf dirb gobuster
 ---
 
 ## Summary
