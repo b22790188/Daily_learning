@@ -153,6 +153,7 @@
   "active": "16a1782a4da2c62a",
   "lastOpenFiles": [
     "TryHackMe/Jr_Penetratoin_Tester/Content Discovery.md",
+    "TryHackMe/Jr_Penetratoin_Tester/Subdomain Enumeration.md",
     "Arp spoofing.md",
     "Daily_learning/image/Java_處理流.png",
     "Daily_learning/log/Obsidian github設定.md",
@@ -160,7 +161,6 @@
     "Difference in Encryption_Hash_Encode.md",
     "Daily_learning/picoCTF_writeup/It's my birthday.md",
     "Daily_learning/picoCTF_writeup/More cookies.md",
-    "Daily_learning/picoCTF_writeup/Some Assembly Required 2.md",
-    "Daily_learning/picoCTF_writeup/Some assembly required 1.md"
+    "Daily_learning/picoCTF_writeup/Some Assembly Required 2.md"
   ]
 }
