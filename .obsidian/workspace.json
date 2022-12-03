@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea9b63ed863b93a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/Authencation Bypass.md",
+                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/Authencation Bypass.md",
+                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/Authencation Bypass.md"
+                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR.md"
               }
             }
           }
@@ -162,17 +174,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6abbaf4ea5442c7",
+  "active": "ea9b63ed863b93a8",
   "lastOpenFiles": [
+    "TryHackMe/Jr_Penetratoin_Tester/Authencation Bypass.md",
+    "TryHackMe/Jr_Penetratoin_Tester/Walking An Application.md",
     "TryHackMe/Jr_Penetratoin_Tester/Subdomain Enumeration.md",
     "TryHackMe/Jr_Penetratoin_Tester/Content Discovery.md",
+    "TryHackMe/Jr_Penetratoin_Tester/IDOR.md",
     "Arp spoofing.md",
     "Daily_learning/image/Java_處理流.png",
     "Daily_learning/log/Obsidian github設定.md",
     "Daily_learning/log/Vscode setup.md",
-    "Difference in Encryption_Hash_Encode.md",
-    "Daily_learning/picoCTF_writeup/It's my birthday.md",
-    "Daily_learning/picoCTF_writeup/More cookies.md",
-    "Daily_learning/picoCTF_writeup/Some Assembly Required 2.md"
+    "Difference in Encryption_Hash_Encode.md"
   ]
 }

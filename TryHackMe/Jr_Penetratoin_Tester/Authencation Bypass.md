@@ -1,9 +1,11 @@
 ---
-date : 2022-12-3 Sat 14:48
+date : 2022-12-03 Sat 14:48
 alias :[]
 ---
 
 ---
+
+## Reflection
 
 這個部份主要介紹的是繞過驗證的方式，前面task2跟3主要都是藉由`ffuf`用暴力破解的方式去列舉出網站的使用者帳號密碼，以下為常見參數:
 
@@ -21,3 +23,6 @@ ffuf -w valid_usernames.txt:W1,/usr/share/wordlists/SecLists/Passwords/Common-Cr
 ```
 
 最後是藉由cookie來繞過驗證，因為現在在身份驗證上大多是使用session來進行驗證，若是將session存在cookie中，且沒有經過嚴謹的處理，使得使用者可以知道session處理的方式，便可能造成session被偽造，用戶身份遭到假冒。
+
+## Summary
+在現在許多的應用程式中，都會有需要使用者輸入帳號密碼來進行身分驗證的方式，在設計上需要足夠嚴謹，避免對使用者透漏太多有關系統本身的資訊，像是`"username exists"`這類的訊息。以防止惡意使用者找到漏洞進而造成危害。
