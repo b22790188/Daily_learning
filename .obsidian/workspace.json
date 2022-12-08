@@ -47,12 +47,8 @@
             "id": "ea9b63ed863b93a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ea9b63ed863b93a8",
+  "active": "834692bb50daf25c",
   "lastOpenFiles": [
+    "Difference in Encryption_Hash_Encode.md",
+    "Daily_learning/C/Pointer.md",
+    "Daily_learning/PortSwiggerNote/Day1_SQLi.md",
+    "Arp spoofing.md",
+    "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md",
     "TryHackMe/Jr_Penetratoin_Tester/Content Discovery.md",
     "TryHackMe/Jr_Penetratoin_Tester/Authencation Bypass.md",
-    "Difference in Encryption_Hash_Encode.md",
     "TryHackMe/Jr_Penetratoin_Tester/Subdomain Enumeration.md",
     "TryHackMe/Basic Pentest.md",
-    "TryHackMe/Linux Fundamental 1~3.md",
-    "TryHackMe/Jr_Penetratoin_Tester/Walking An Application.md",
-    "TryHackMe/Jr_Penetratoin_Tester/IDOR and File Inclusion.md",
-    "Arp spoofing.md",
-    "Daily_learning/image/Java_處理流.png"
+    "TryHackMe/Linux Fundamental 1~3.md"
   ]
 }
